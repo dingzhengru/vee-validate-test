@@ -1,6 +1,6 @@
 # vee-validate-test
 
-測試 vee-validate
+目前把規則都放 utils/vee-validate.js 中(extend)
 
 ## 基本測試
 
